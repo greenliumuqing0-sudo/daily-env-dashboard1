@@ -1,6 +1,16 @@
 {
-  "last_updated": "2025-11-08T00:51:47.109735",
+  "last_updated": "2025-11-09T00:57:59.768416",
   "tools": [
+    {
+      "name": "eds-book",
+      "summary": "A computational notebook community for open environmental data science 🌎",
+      "usefulness": "这个environmental-data相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
+      "technical": "基于Python开发，在GitHub上有122个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
+      "category": "programming",
+      "difficulty": "中级",
+      "link": "https://github.com/eds-book/eds-book",
+      "stars": 122
+    },
     {
       "name": "QGIS",
       "summary": "世界领先的开源地理信息系统，支持全方位空间数据分析",
@@ -40,6 +50,16 @@
       "difficulty": "中级",
       "link": "https://geopandas.org/",
       "stars": "N/A"
+    },
+    {
+      "name": "pudl",
+      "summary": "The Public Utility Data Liberation Project provides analysis-ready energy system...",
+      "usefulness": "这个climate-analysis相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
+      "technical": "基于Python开发，在GitHub上有562个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
+      "category": "programming",
+      "difficulty": "中级",
+      "link": "https://github.com/catalyst-cooperative/pudl",
+      "stars": 562
     }
   ]
 }
