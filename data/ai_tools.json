@@ -1,16 +1,6 @@
 {
-  "last_updated": "2026-08-14T01:04:02.290926",
+  "last_updated": "2026-08-15T00:38:44.216494",
   "tools": [
-    {
-      "name": "uxarray",
-      "summary": "Xarray extension for unstructured climate and global weather data analysis and v...",
-      "usefulness": "这个climate-analysis相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
-      "technical": "基于Python开发，在GitHub上有226个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
-      "category": "programming",
-      "difficulty": "中级",
-      "link": "https://github.com/UXARRAY/uxarray",
-      "stars": 226
-    },
     {
       "name": "R Spatial生态系统",
       "summary": "sf + terra + tmap + rgee等R语言空间分析包",
@@ -20,6 +10,16 @@
       "difficulty": "中高级",
       "link": "https://r-spatial.github.io/sf/",
       "stars": "N/A"
+    },
+    {
+      "name": "pcmdi_metrics",
+      "summary": "Open-source Python package for Collective and Systematic Evaluation of Climate a...",
+      "usefulness": "这个climate-analysis相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
+      "technical": "基于Python开发，在GitHub上有131个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
+      "category": "programming",
+      "difficulty": "中级",
+      "link": "https://github.com/PCMDI/pcmdi_metrics",
+      "stars": 131
     },
     {
       "name": "phonometry",
